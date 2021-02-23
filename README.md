@@ -18,7 +18,7 @@ Alosaur - [Deno](https://github.com/denoland) web framework 🦖.
 - **Render pages** any template render engine.
   [(more)](https://github.com/alosaur/alosaur#render-pages)
 
-[中文README](https://github.com/alosaur/alosaur/blob/master/README_zh.md)
+[中文说明](https://github.com/alosaur/alosaur/blob/master/README_zh.md)
 
 ---
 
@@ -27,7 +27,8 @@ Alosaur - [Deno](https://github.com/denoland) web framework 🦖.
 2021 - Jan-March
 
 - [x] Response cache store, attribute
-- [ ] CLI (generate blank app, build openapi, tests and more)
+- [x] CLI: [alosaur/cli](https://github.com/alosaur/cli) (generate blank app,
+  build openapi, tests and more)
 - [ ] Create REPL http tool (tool for tests API, WebSockets etc), integrate with
   Alosaur openapi
 - [ ] Background process, BackgroundService, WebJobs, cron
@@ -829,4 +830,4 @@ Then you can add anywhere you want. For example action of controller:
 
 ### Backers
 
-<a href="https://opencollective.com/alosaur" target="_blank"><img src="https://opencollective.com/alosaur/backers.svg?width=1000"></a>
+<a href="https://opencollective.com/alosaur" target="_blank"><img src="https://opencollective.com/alosaur/backers.svg?width=1000&t"></a>
